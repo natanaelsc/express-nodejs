@@ -1,0 +1,8 @@
+{
+  "name": "express-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:natanaelsc/express-nodejs.git",
+  "author": "Natanael Silva <53065432+natanaelsc96@users.noreply.github.com>",
+  "license": "MIT"
+}
