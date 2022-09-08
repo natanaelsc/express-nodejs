@@ -2,9 +2,9 @@ import express from "express";
 import router from "./routes";
 import helmet from "helmet";
 
-const PORT = 3000;
-
 const app = express();
+
+const PORT = 3000;
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
