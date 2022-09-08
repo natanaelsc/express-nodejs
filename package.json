@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "tsnd --respawn --transpile-only --ignore-watch node_modules --no-notify --cls src/server.ts"
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "tsnd --respawn --transpile-only --ignore-watch node_modules --no-notify --cls src/server.ts"
   },
   "repository": "git@github.com:natanaelsc/express-nodejs.git",
   "author": "Natanael Silva <53065432+natanaelsc96@users.noreply.github.com>",
