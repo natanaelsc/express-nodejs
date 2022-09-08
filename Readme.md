@@ -21,10 +21,7 @@ yarn add -D @types/express
 
 É uma biblioteca que ajuda a deixar as aplicações Express mais seguras. Ela configura vários headers HTTP.
 
-```txt
-Helmet helps you secure your Express apps by setting various HTTP headers. 
-It’s not a silver bullet, but it can help!
-```
+> Helmet helps you secure your Express apps by setting various HTTP headers. It’s not a silver bullet, but it can help!
 
 ```cmd
 yarn add helmet --save
