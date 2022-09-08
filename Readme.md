@@ -1,5 +1,8 @@
 # Iniciando com Framework Web [ExpressJS](https://expressjs.com/pt-br/)
 
+![node version](https://img.shields.io/badge/Node-v_16.15.1-339933?logo=node.js)
+![repo size](https://img.shields.io/github/repo-size/natanaelsc/express-nodejs?logo=gitlfs&logoColor=F64935&color=F64935)
+
 ## Adicionando bibliotecas
 
 ### [Express](https://expressjs.com/pt-br/starter/installing.html)
