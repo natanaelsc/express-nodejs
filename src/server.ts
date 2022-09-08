@@ -6,7 +6,7 @@ const PORT = 3000;
 
 const app = express();
 
-// JSON parsing
+app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 // Security middleware
