@@ -1,0 +1,5 @@
+### Variables 
+@baseUrl = http://localhost:3000
+
+### GET
+GET {{baseUrl}} HTTP/1.1
